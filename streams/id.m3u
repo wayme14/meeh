@@ -2,16 +2,16 @@
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="INDONESIA", RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787374757~hmac=227203f1b43559a5ad9b2b50a170a4a03cdc8e981edb7746e0f2f322fcfb0b7f
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787376599~hmac=7a2230ffb662e734438afcfe5b37508f8e5b2fb622a995bfc3e69716dd4c68de
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTV" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="INDONESIA", MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787374758~hmac=6dc161c45e443336d53d6b7b894e5f03f31fb1ae5c11289b1c55e9d527d5699f
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787376600~hmac=e816872690d1500571b52d63c8a4bf0d21d3705edc9acec2324f283e954ee986
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png" group-title="INDONESIA", GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1787374758~hmac=a0b4be2ff9aa97c354ec154028c089362f0af1e18a7cbcba5311ba61e58238cb
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1787376600~hmac=1f58a435804cd71a7fd1ebfbc62f3f80ed385db222daad1117de91c1ffd0a53e
 #EXTINF:-1 tvg-id="iNews" tvg-name="iNews" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png" group-title="INDONESIA", iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787374758~hmac=a481ea66eb7e37eb922c522d9c6fcc1944e955161c04d09d1d0c05a1fe973ea5
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787376600~hmac=5d11d1bb4c5286df53dfa49b741aff728445aa455040834d8815d63bdbaa0444
