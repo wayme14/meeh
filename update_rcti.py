@@ -73,7 +73,7 @@ def update_m3u_file():
                     links_found += 1
                     
                     # Menyusun M3U untuk dibaca di aplikasimu
-                    playlist_content += f'#EXTINF:-1 tvg-id="{ch["name"]}" tvg-name="{ch["name"]}" tvg-logo="{ch["logo"]}" group-title="TV Nasional", {ch["name"]}\n'
+                    playlist_content += f'#EXTINF:-1 tvg-id="{ch["name"]}" tvg-name="{ch["name"]}" tvg-logo="{ch["logo"]}" group-title="INDONESIA", {ch["name"]}\n'
                     playlist_content += f'#EXTVLCOPT:http-referrer=https://m.rctiplus.com/\n'
                     playlist_content += f'#EXTVLCOPT:http-user-agent={user_agent}\n'
                     playlist_content += f'{stream_url}\n'
