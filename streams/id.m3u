@@ -2,12 +2,12 @@
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="INDONESIA", RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787446776~hmac=1d370cea5e043384a6157ad09f3e9b2742ce13d6197a01f69c9cb4b223db32ed
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787448476~hmac=01a33588551d44693a4f020e318e71596a8ec3d0c75d4d3f2f84a1cbd85b48fa
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTV" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="INDONESIA", MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787446777~hmac=bacb1b5306ba28ae80c097974b710b5d02ca90a1c099aabdd9fb39e992d00051
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787448477~hmac=75c26aaac64b5bffeb80fdf0eddb2275f20311c69bb2c95b95a8b73dc013717a
 #EXTINF:-1 tvg-id="iNews" tvg-name="iNews" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png" group-title="INDONESIA", iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787446777~hmac=93eb0b968afdf87b5aa6fdf0fa612137af62c77891601335a0189f83630030f8
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787448477~hmac=adaefaa75d422d33edc1659d89b8748aa7192089a42fffc641ad5555abae5cdd
